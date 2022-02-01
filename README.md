@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey Fellow Hubers👋
 
-My name is Jonathan Joseph, and I'm a Full Stack, Computer Science, Data Structures, and C++, Python, and JS enthusiast. Currently, I'm a Front-end developer working on and contributing to numerous web app development projects.
+My name is Jonathan Joseph, and I'm a Full Stack, Computer Science, Data Structures, and C++, Python, and JS enthusiast.
 
-- 🔭 I’m currently working on Freelance projects
+- 🔭 Former Intern at Goldman Sachs
 - 🌱 I’m currently learning Full Stack development
 - 👯 I’m looking to collaborate on projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-joseph-31428216b/)
