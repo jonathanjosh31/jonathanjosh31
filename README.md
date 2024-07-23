@@ -2,7 +2,7 @@
 
 My name is Jonathan Joseph, and I'm a Full Stack, Computer Science, Data Structures, and C++, Python, and JS enthusiast.
 
-- 🔭 Incoming Software Engineer at Cisco
+- 🔭 Software Engineer at Cisco
 - 🌱 Former Intern at Goldman Sachs and Cisco
 - 👯 Trying to implement ideas that'll probably be regarded not necessary.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-joseph-31428216b/)
